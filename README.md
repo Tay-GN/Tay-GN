@@ -1,9 +1,9 @@
 <h1><img src="https://media.giphy.com/media/ZTm2kDNErHrtegKDPq/giphy.gif" width="40"/> Hello World ! </h1>
 
 
-My name is Tay Nascimento 😉 
+My name is Tay Nascimento 😉  
 I work as a SQL/Python Data Analyst Lead at Shopee.
-
+  
 
 <p align="left">
 <a href="https://www.linkedin.com/in/taynara-gnascimento/"><img src="https://img.shields.io/badge/-Tay Nascimento-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
