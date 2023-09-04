@@ -10,6 +10,6 @@ My name is Tay Nascimento and I work as a SQL/Python Data Analyst at Shopee.
 
 ### Languages & Tools 🛠  
 ![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&color=green)&nbsp;![SparkSQL](https://img.shields.io/badge/-SparkSQL-05122A?style=flat&color=green)&nbsp;  
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&color=orange)&nbsp;![Polars](https://img.shields.io/badge/-Polars-05122A?style=flat&color=orange)&nbsp;![Pandas](https://img.shields.io/badge/-Pandas-05122A?style=flat&color=orange)&nbsp;![Matplotlib](https://img.shields.io/badge/-Matplotlib-05122A?style=flat&color=orange)&nbsp;  
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&color=orange)&nbsp;![Polars](https://img.shields.io/badge/-Polars-05122A?style=flat&color=orange)&nbsp;![Pandas](https://img.shields.io/badge/-Pandas-05122A?style=flat&color=orange)&nbsp;![Matplotlib](https://img.shields.io/badge/-Matplotlib-05122A?style=flat&color=orange)&nbsp;![Seaborn](https://img.shields.io/badge/-Seaborn-05122A?style=flat&color=orange)&nbsp;  
 ![PowerBI](https://img.shields.io/badge/-PowerBI-05122A?style=flat&color=yellow)&nbsp;![Tableau](https://img.shields.io/badge/-Tableau-05122A?style=flat&color=yellow)&nbsp;![QlikView](https://img.shields.io/badge/-QlikView-05122A?style=flat&color=yellow)&nbsp;  
 ![DataAnalyst](https://img.shields.io/badge/-DataAnalyst-05122A?style=flat&color=blue)&nbsp;![BusinessAnalyst](https://img.shields.io/badge/-BusinessAnalyst-05122A?style=flat&color=blue)&nbsp;  
