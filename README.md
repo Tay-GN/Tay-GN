@@ -1,7 +1,8 @@
 <h1><img src="https://media.giphy.com/media/ZTm2kDNErHrtegKDPq/giphy.gif" width="40"/> Hello World ! </h1>
 
 
-My name is Tay Nascimento and I work as a SQL/Python Data Analyst at Shopee.
+My name is Tay Nascimento 😉 
+I work as a SQL/Python Data Analyst Lead at Shopee.
 
 
 <p align="left">
