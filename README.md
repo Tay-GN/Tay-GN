@@ -2,7 +2,7 @@
 
 
 My name is Tay Nascimento 😉  
-I work as a SQL/Python Data Analyst Lead at Shopee.
+I work with Presto and Spark solutions as a Data Lead at Shopee Brazil.
   
 
 <p align="left">
